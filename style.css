@@ -2,4 +2,10 @@
 
 body {
   font-family: "Edu NSW ACT Foundation", cursive;
+  border: 0;
+}
+
+.img-logo {
+  background: url(./diseno-icono-loto-logotipo-empresa-spa_53876-115927.avif);
+  width: 100px;
 }
