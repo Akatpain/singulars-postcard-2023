@@ -1,8 +1,12 @@
+html{
+  background-color: black;
+}
 @import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap");
 
-body {
+body.a {
   font-family: "Edu NSW ACT Foundation", cursive;
   border: 0;
+  background-color: white;
 }
 
 .img-logo {
