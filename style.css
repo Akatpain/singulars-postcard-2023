@@ -1,15 +1,19 @@
-html{
-  background-color: black;
-}
 @import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap");
 
 body.a {
   font-family: "Edu NSW ACT Foundation", cursive;
-  border: 0;
+  margin: 8px;
+  padding: 8px;
   background-color: white;
+  
 }
 
 .img-logo {
-  background: url(./diseno-icono-loto-logotipo-empresa-spa_53876-115927.avif);
-  width: 100px;
+    
+}
+body.input{
+  border: none none black none;
+}
+.button{
+  
 }
