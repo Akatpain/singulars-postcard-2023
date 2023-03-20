@@ -19,14 +19,16 @@
   font-family: "Edu NSW ACT Foundation", cursive;
   margin: 8px;
   padding: 8px;
+  display: inline-block;
 }
-.p__p{
+.p__p p{
   display: inline-block;
   vertical-align: middle;
 }
-.p__input {
-  width: 40px;
+.p__input p input {
+  width: 80px;
   vertical-align: middle;
   margin-left: 0%;
+  display: inline-block;
   
 }
